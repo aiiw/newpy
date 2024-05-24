@@ -1,5 +1,4 @@
-cd /d "D:\py\"
-icacls "D:\py\log.txt" /grant "%USERNAME%:(W)"
-echo %date% %time% >> log.txt
-@echo off
-call ÉÏ´«.bat
+git add .
+git commit -m "q"
+git push
+pause
